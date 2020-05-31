@@ -1,7 +1,7 @@
 # To Do
 Create, read, update and delete tasks from a local JSON file, using node console
 
-This project makes use of yargs package to manage commands and get user selection, and file File System Module to create JSON file.
+This project makes use of File System Module to create JSON file and yargs package to manage commands and get user selection.
 
 Example:
 - Create

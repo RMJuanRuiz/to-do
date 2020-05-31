@@ -1,7 +1,7 @@
 # To Do
 Create, read, update and delete tasks from a local JSON file, using node console
 
-This project makes use of yargs package to manage commands and get user selections
+This project makes use of yargs package to manage commands and get user selection
 
 Example:
 - Create
